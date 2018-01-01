@@ -1,0 +1,3 @@
+# https://freedom-to-tinker.com/2017/12/27/no-boundaries-for-user-identities-web-trackers-exploit-browser-login-managers/
+127.0.0.1 static.audienceinsights.net
+127.0.0.1 api.behavioralengine.com
