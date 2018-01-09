@@ -1,6 +1,11 @@
 # https://freedom-to-tinker.com/2017/12/27/no-boundaries-for-user-identities-web-trackers-exploit-browser-login-managers/
 static.audienceinsights.net
 api.behavioralengine.com
+
+# Inappropriate/illegal content
+imgsrc.ru
+4chan.org
+
 # In-browser coin mining
 coinhive.com
 trafficvalidator.com
