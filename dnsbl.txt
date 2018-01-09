@@ -4,3 +4,4 @@
 # In-browser coin mining
 127.0.0.1 coinhive.com
 127.0.0.1 trafficvalidator.com
+127.0.0.1 insdrbot.com
