@@ -59,3 +59,6 @@ rocks.io
 server.jsecoin.com
 static.reasedoper.pw
 webmine.cz
+
+# Popups
+fwbntw.com
