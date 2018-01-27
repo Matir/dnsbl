@@ -5,6 +5,7 @@ api.behavioralengine.com
 # Inappropriate/illegal content
 imgsrc.ru
 4chan.org
+rbt.asia
 
 # In-browser coin mining
 coinhive.com
