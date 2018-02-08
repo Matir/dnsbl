@@ -63,3 +63,6 @@ webmine.cz
 
 # Popups
 fwbntw.com
+
+# Spoofing/phishing sites
+reddit.co
