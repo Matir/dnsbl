@@ -63,6 +63,7 @@ webmine.cz
 
 # Popups
 fwbntw.com
+heateor.com
 
 # Spoofing/phishing sites
 reddit.co
