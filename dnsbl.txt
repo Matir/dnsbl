@@ -67,3 +67,6 @@ heateor.com
 
 # Spoofing/phishing sites
 reddit.co
+
+# Very invasive ads
+moatads.com
