@@ -70,3 +70,8 @@ reddit.co
 
 # Very invasive ads
 moatads.com
+
+# Fake news
+foxnews.com
+newsmax.com
+oann.com
